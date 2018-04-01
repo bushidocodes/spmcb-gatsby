@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Beginner's Guide to WebVR on Daydream
-date: 2018-04-01T02:09:30.166Z
+date: 2016-12-23T22:09:30-05:00
 description: My notes from getting started with developing WebVR on Google Daydream
 tags:
   - tutorial
