@@ -32,7 +32,7 @@ intro:
       text: >-
         Lightweight editor supporting mainframe batch processing and datasets.
         Winner of "Mad Scientist Award" at a Hackathon.
-    - image: /img/tutorials.png
+    - image: /img/cookiemonsters.png
       links:
         - name: GitHub
           targetURL: 'https://github.com/spmcbride1201/cookie-monsters'
@@ -42,7 +42,7 @@ intro:
       text: >-
         An e-commerce site built with React/Redux, Express, and Postgres.
         Delicious!
-    - image: /img/meeting-space.png
+    - image: /img/fcs.png
       links:
         - name: GitHub
           targetURL: 'https://github.com/faacloudservices/playbook'
