@@ -99,17 +99,13 @@
                       name: name
                       widget: string
                     - 
-                      label: "Github URL"
-                      name: githubURL
-                      widget: string
-                    - 
                       label: Text
                       name: text
                       widget: text
                     -
                       label: Links
                       name: links
-                      widget: object
+                      widget: list
                       fields:
                         - 
                           label: "Link Name"
