@@ -1,7 +1,7 @@
 ---
 templateKey: project-page
 title: Portfolio
-image: /img/jumbotron.jpg
+image: /img/conquering-computer.jpg
 heading: Software
 description: Thoughtstuff + High Level Languages
 intro:
@@ -52,6 +52,25 @@ intro:
       text: >-
         A Jekyll based static site with a "playbook" I put together to help FAA
         teams plan the migration of applications to the cloud.
+    - image: /img/classicarcadegamecover.png
+      links:
+        - name: GitHub
+          targetURL: 'https://github.com/spmcbride1201/classic-arcade-game'
+        - name: Demo
+          targetURL: 'http://spmcb.com/classic-arcade-game/'
+      name: Classic Arcade Game
+      text: >-
+        A browser game similar to Frogger built in JavaScript using the HTML5
+        Canvas.
+    - links:
+        - name: GitHub
+          targetURL: 'https://github.com/spmcbride1201/oldtown-map'
+        - name: Demo
+          targetURL: 'http://spmcb.com/oldtown-map/'
+      name: Old Town Alexandria
+      text: >-
+        A single-page web app that overlays third party API data on top of a
+        Google Maps depiction of Old Town Alexandria, VA.
 main:
   heading: Great coffee with no compromises
   description: >
