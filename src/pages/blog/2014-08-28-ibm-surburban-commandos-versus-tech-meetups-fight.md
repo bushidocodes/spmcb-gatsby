@@ -9,7 +9,7 @@ comments: true
 coverimage: /img/posts/suburbanCommandoCover.jpg
 ---
 
-![ ]({{site.baseurl}}/img/posts/suburban-commando.jpg)
+![ ](/img/posts/suburban-commando.jpg)
 
 One of the largest impacts of the demographic shift from Baby Boomers to Gen Xers to Millennials has been the shift in preferences from the single-family homes, privacy, and quality of life offered by the suburbs to the walkable amenities, night life, and easy public transit options offered by urban neighborhoods or close-in suburbs. This trend has led to rapid gentrification of city neighborhoods, and it continues to have follow-on impacts on marriage, family formation, and all sorts of other aspects of society. It also generally increases the cost of living and probably accelerates the proliferation of dual-income couples.
 
@@ -27,5 +27,5 @@ Yesterday, I finally had the chance to go to a DC Tech networking event, and I h
 
 With every passing day, I begin to realize that I am the ultimate arbiter of my destiny. IBM and other large Enterprise IT companies are used to having control over their techie serfs, including the ability to furlough them at will, cull the herd to shift money to shareholders, and systematically break down individual willpower to inculcate long term loyalty to a single employer. There are a lot of Milton-like characters in Enterprise IT, but I don't have to be one.
 
-![ ]({{site.baseurl}}/img/posts/milton-office-space.jpg)
+![ ](/img/posts/milton-office-space.jpg)
 

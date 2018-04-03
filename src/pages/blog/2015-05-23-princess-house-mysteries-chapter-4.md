@@ -17,7 +17,7 @@ About three weeks ago, I finally worked up the courage to go to the Land Records
 
 Figuring out how this book was organized was a bit tricky. The names of the buyers and sellers are both recorded into a single index that is alphabetized by both last name and first name. However, after ten minutes of page flipping, I found the entry that I was looking for.
 
-![Deeds Ledger open to entry showing Benjamin Williams]({{site.baseurl}}/img/posts/20150508_194903704_iOS-1024x768.jpg)
+![Deeds Ledger open to entry showing Benjamin Williams](/img/posts/20150508_194903704_iOS-1024x768.jpg)
 
 According to this ledger, Benjamin Williams purchased 1204 Princess Street from Ann Eliza Page on January 5th, 1880. Furthermore, I could find the actual deed on page 574 of book 8 in this series. Great!
 

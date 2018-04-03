@@ -9,7 +9,7 @@ comments: true
 coverimage: /img/posts/rushmoreCover.jpg
 ---
 
-![Image of Rushmore Movie Poster]({{site.baseurl}}/img/posts/1862__rushmore_1998movie_-166x300.jpg)
+![Image of Rushmore Movie Poster](/img/posts/1862__rushmore_1998movie_-166x300.jpg)
 
 It's hard to believe that I've gone sixteen years without seeing it, but thanks to HBO Go and <a href="http://www.pastemagazine.com/blogs/lists/2014/08/the-25-best-movies-to-watch-on-hbo-go-august-2014.html" target="_blank">this wonderful blog post</a>, I just wrapped up watching Wes Anderson's first commercial success: Rushmore. Falling somewhere between Benjamin Braddock and Ferris Bueller, the protagonist Max Fischer was a fascinating character. Eccentric and precocious, Max exudes a very strange sort of magnetism that draws all other characters into his universe, flipping the adult-adolescent relationship dynamic on its head in many cases.
 

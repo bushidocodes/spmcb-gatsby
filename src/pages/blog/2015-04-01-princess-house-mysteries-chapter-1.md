@@ -27,20 +27,20 @@ Ummm... My house is 165 years and WAS MOVED? How did people even do that in the 
 
 Low and behold, Benjamin Williams appears in the house in the 1881 Alexandria City Directory. Notice that they didn't yet have street numbers. It's labeled as the fifth house on the south side of the street walking east from Payne Street.
 
-![Image of the cover of the 1880-1881 Alexandria City Directory ]({{site.baseurl}}/img/posts/1.jpg)
-![Alexandria City page showing Benjamin Williams living at the 1204 Princess Street lot.]({{site.baseurl}}/img/posts/2.jpg)
+![Image of the cover of the 1880-1881 Alexandria City Directory ](/img/posts/1.jpg)
+![Alexandria City page showing Benjamin Williams living at the 1204 Princess Street lot.](/img/posts/2.jpg)
 
 
 This is further confirmed by looking at the Sanborn Fire Insurance Maps, which verify that Benjamin William's home became 1204 Princess when Alexandria City adopted street numbers.
 
-![1902 Sanborn fire maps showing the 1200 block of Princess Street ]({{site.baseurl}}/img/posts/1902-Sanborn-Small.jpg)
+![1902 Sanborn fire maps showing the 1200 block of Princess Street ](/img/posts/1902-Sanborn-Small.jpg)
 
 When I got home from the library, I fired up Ancestry and found the 1880 Census entry for Benjamin Williams. He was listed as having been born in 1820 in Virginia, unable to read or write, and employed as a woodcutter. His wife was Sarah Williams, who was born in 1825, unable to read or write, and employed as a laundress. The Williams family seemed to be the primary caretaker of their twelve year old grandson named Edward Coleman, who was going to school and the only literate member of the household.
 
-![1880 Census entry showing Williams Family]({{site.baseurl}}/img/posts/3.jpg)
+![1880 Census entry showing Williams Family](/img/posts/3.jpg)
 
 Ancestry also found a record in the African American Civil War Sailor Index for a Benjamin Williams born in Norfolk, Virginia in 1820 that enlisted in the Navy out of Portsmouth, NH on September 8th, 1864. Based on the number of folks named Benjamin Williams in the 19th century, it seems that this might just be coincidence. However, Alexandria's status as a port town and Union logistical hub during the Civil War makes me think that this might be the same person that eventually settled at 1204 Princess Street.
 
-![Image showing a Benjamin Williams in the African American Civil War Sailor Index]({{site.baseurl}}/img/posts/4.jpg)
+![Image showing a Benjamin Williams in the African American Civil War Sailor Index](/img/posts/4.jpg)
 
 I'm looking forward to digging more into the historical records to learn more about the history of my home and its previous residents. Stay tuned for future reports!
