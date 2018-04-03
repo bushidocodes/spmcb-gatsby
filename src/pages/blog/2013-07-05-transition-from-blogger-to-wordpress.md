@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-# layout: post
 title: Transition from Blogger to WordPress
 date: 2013-07-05T10:02:59-05:00 
 author: spmcbride1201
 permalike: transition-from-blogger-to-wordpress/
-comments: true
 coverimage: /img/posts/bloggerToWordpressCover.png
 ---
 My personal blog has been relatively stale over the past few years. Partially that has had to do with being so busy working at IBM and completing my graduate studies at the Illinois Institute of Technology. However, now that I've finished my graduate studies, I'm hoping to reconnect to personal blogging in order to be able to have a place to write about big picture things about life, career, leisure, etc. beyond the sorts of technical posts I write for the Millennial Mainframer blog.</span>

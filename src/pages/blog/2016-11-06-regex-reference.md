@@ -1,13 +1,10 @@
 ---
 templateKey: blog-post
-# layout: post
-# section-type: post
 title: Regular Expressions Reference
 date:  2016-11-06T22:11:59-05:00
-# author: spmcbride1201
-# permalink: regex-reference/
-# comments: true
-# coverimage: /img/posts/wazup.jpg
+author: spmcbride1201
+permalink: regex-reference/
+coverimage: /img/posts/wazup.jpg
 ---
 
 ## Why this reference?

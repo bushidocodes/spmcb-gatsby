@@ -1,12 +1,10 @@
 ---
 templateKey: blog-post
-# layout: post
 title: Saints Francis, Jude, and Watson
 date: 2011-07-15T13:43:59-05:00 
 author: spmcbride1201
-# permalink: saints-francis-jude-and-watson/
-comments: true
-# coverimage: /img/posts/stFrancisJudeWatsonCover.jpg
+permalink: saints-francis-jude-and-watson/
+coverimage: /img/posts/stFrancisJudeWatsonCover.jpg
 ---
 Praise to God for his many blessings! I have so much to be thankful for. Firstly, I was able to survive my 15 credit hour semester at IIT with a pretty respectable GPA and a published paper. My research on the cyber security loopholes in UAVs actually turned out to be a good product. Carnegie Mellon decided to publish the paper. It’s called “Ultimate Killer Apps,” and you can read it here:
 

@@ -1,12 +1,10 @@
 ---
 templateKey: blog-post
-# layout: post
 title: TPP - Presidential by Nature
 date: 2015-06-13T13:21:59-05:00   
-# author: spmcbride1201
-# permalink: tpp-presidential-by-nature/
-# comments: true
-# coverimage: /img/posts/obama_tpp_041015-825x510.jpg
+author: spmcbride1201
+permalink: tpp-presidential-by-nature/
+coverimage: /img/posts/obama_tpp_041015-825x510.jpg
 ---
 ![President Obama negotiating the Trans-Pacific Partnership](/img/posts/obama_tpp_041015-825x510.jpg)
 

@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-# layout: post
 title: Status Report–25% to degree completion
 date: 2011-03-07T20:30:59-05:00
 author: spmcbride1201
 permalink: status-report-25-to-degree-completion/
-comments: true
 coverimage: /img/posts/twentyFivePercentCover.jpg
 ---
 It’s difficult to believe, but I am now working through Midterms week of my first of two semesters for my Masters of IT Management program. Glancing back at my blog, I see that my last post on December 12th essentially lamented the fact that I needed to return to school. To bring you all up to speed, after having a wonderful Christmas back in California with my wife, I started my coursework at the Illinois Institute of Technology. My semester has been pretty busy with various technical projects, but I’m happy to say that I’m on track to graduate from my program in December.

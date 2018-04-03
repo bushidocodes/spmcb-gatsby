@@ -1,14 +1,11 @@
 ---
 templateKey: blog-post
-# layout: post
-# section-type: post
 title: Beginner Guide to WebVR on Daydream
 date: 2016-12-23T22:09:30-05:00
 description: My notes from getting started with developing WebVR on Google Daydream
-# author: spmcbride1201
-# permalink: beginner-guide-to-webvr-on-daydream
-# comments: true
-# coverimage: /img/posts/daydream-cav.jpg
+author: spmcbride1201
+permalink: beginner-guide-to-webvr-on-daydream
+coverimage: /img/posts/daydream-cav.jpg
 tags:
   - tutorial
   - WebVR

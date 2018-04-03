@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-# layout: post
 title: "Princess House Mysteries: Chapter 1"
 date: 2015-04-01T01:58:59-05:00 
 author: spmcbride1201
 permalink: princess-house-mysteries-chapter-1/
-comments: true
 coverimage: /img/posts/20150327_205650489_iOS-825x510.jpg
 ---
 Shortly before Christmas of 2014, my wife and I purchased a lovely townhouse in Alexandria City's Parker Gray Historic District. More specifically, we purchased a house on Princess Street, which my wife loves to no end. Finally she can be a Virginia Princess! The home has been great so far. We're three blocks from King Street, an eight minute walk to Braddock Road, and close to all sorts of Hipsterish new restaurants popping up to our north. Not bad for a starter home on a VA Loan!

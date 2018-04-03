@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-# layout: post
 title: Government IT and Cloud Computing
 date: 2010-12-11T22:09:59-05:00
 author: spmcbride1201
 permalink: government-it-and-cloud-computing/
-comments: true
 coverimage: /img/posts/cloudFirstCover.png
 ---
 The Chief Information Officer of the Federal Government [recently released a new plant to shift the majority of government IT into the “cloud”](https://it.slashdot.org/story/10/12/11/1940252/Feds-To-Adopt-Cloud-First-IT-Policy) in the near future. This means a decrease in local IT personnel and servers by concentrating government data in larger centers that can be accessed remotely.

@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-# layout: post
 title: "Princess House Mysteries: Chapter 3"
 date: 2015-04-26T01:30:59-05:00   
 author: spmcbride1201
 permalink: princess-house-mysteries-chapter-3/
-# comments: true
 coverimage: /img/posts/phmc3Cover.jpg
 ---
 <a href="http://spmcb.com/princess-house-mysteries-chapter-2/" target="_blank">In my last post, I discussed some of my initial thoughts about where my house was actually located between when it was built circa 1850 and when it was moved to the "Uptown" neighborhood of Alexandria in 1880.</a> In this post, I'd like to focus on what stood on the land around the 1200 block before the development of the residential neighborhood.

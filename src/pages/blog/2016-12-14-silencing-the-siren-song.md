@@ -1,13 +1,10 @@
 ---
 templateKey: blog-post
-# layout: post
-# section-type: post
 title: Silencing the Siren Song
 date: 2016-12-14T22:09:30-05:00
-# author: spmcbride1201
-# permalink: silencing-the-siren-song
-# comments: true
-# coverimage: /img/posts/sirens.jpg
+author: spmcbride1201
+permalink: silencing-the-siren-song
+coverimage: /img/posts/sirens.jpg
 ---
 
 *Come this way, honored Odysseus... and stay your ship, so that you can listen here to our singing; for no one else has ever sailed past this place in his black ship until he has listened to the honey-sweet voice that issues from our lips; then goes on, well-pleased, knowing more than ever he did; for we know everything... Over all the generous earth we know everything that happens.*

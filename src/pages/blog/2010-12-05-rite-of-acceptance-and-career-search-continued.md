@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-# layout: post
 title: Rite of Acceptance and Career Search Continued
 date: 2010-12-05T21:36:59-05:00
 author: spmcbride1201
 permalink: rite-of-acceptance-and-career-search-continued/
-comments: true
 coverimage: /img/posts/riteOfAcceptanceCover.png
 ---
 This morning was my Rite of Acceptance into the Roman Catholic church. For those unfamiliar with the process, [Wikipedia provides a reasonable explanation of the Rite of Christian Initiation of Adults](http://en.wikipedia.org/wiki/Rite_of_Christian_Initiation_of_Adults). Essentially, I have now completed the first phase of being formally welcomed into the St. Edmund's parish community. At mass, the catechumens and candidates stood in the back of the sanctuary. I was asked, "What do you seek of God's Church?" My response was "Faith and Holiness," after which the paster handed me the processional crucifix and told me "This is your faith and your holiness." It was a really beautiful rite, and I felt especially touched when the entire parish raised their hands in prayer over me and the other RCIA participants.

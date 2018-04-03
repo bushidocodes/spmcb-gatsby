@@ -1,12 +1,10 @@
 ---
 templateKey: blog-post
-# layout: post
 title: "Princess House Mysteries: Chapter 4"
 date: 2015-05-23T14:41:59-05:00   
-# author: spmcbride1201
-# permalink: princess-house-mysteries-chapter-4/
-# comments: true
-# coverimage: /img/posts/phmc4Cover.jpg
+author: spmcbride1201
+permalink: princess-house-mysteries-chapter-4/
+coverimage: /img/posts/phmc4Cover.jpg
 ---
 First things first, there have been some setbacks with my Princess House Research. Nothing tragic, but a bit frustrating for me personally. Let me set the stage for you so that you can empathize.
 

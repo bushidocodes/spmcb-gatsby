@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-# layout: post
 title: Java and Robert Santos
 date: 2010-12-10T03:18:59-05:00
 author: spmcbride1201
 permalink: java-and-robert-santos/
-comments: true
 coverimage: /img/posts/javaAndSantos.png
 ---
 In order to give myself a constructive project to work on, I’ve recently been teaching myself Java. [According to the TIOBE index](http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html), this programming language is currently the most popular language. After spending a little bit of time training in the language, I can see why this is the case. Although I am by no means a coder, this language is elegant and seems infinitely useful for creating business applications. It definitely seems like the ideal language for learning Object-oriented programming (not to bash my brief Ada experience at West Point).

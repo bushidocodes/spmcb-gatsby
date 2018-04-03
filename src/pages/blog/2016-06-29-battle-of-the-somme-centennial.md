@@ -1,13 +1,11 @@
 ---
 templateKey: blog-post
-# layout: post
 section-type: post
 title: Battle of the Somme Centennial
 date: 2016-06-29T23:50:59-05:00   
-# author: spmcbride1201
-# permalink: battle-of-the-somme-centennial/
-# comments: true
-# coverimage: /img/posts/Somme-Tommies-Charge.jpg
+author: spmcbride1201
+permalink: battle-of-the-somme-centennial/
+coverimage: /img/posts/Somme-Tommies-Charge.jpg
 ---
 
 One hundred years ago today, General Haig, commander of the British Expeditionary Force, a man known for strong Christian beliefs and eccentric spiritualism (supposedly he had spoken with Napoleon through a spiritual medium) looked up to the sky and saw dark omens. Over the past five days, British artillerymen fired continuous explosion of more than 1.5 million shells on the German defensive trenches. Today was to be the infantry assault, but after a week of rain, no man’s land had transformed into a muddy wasteland.

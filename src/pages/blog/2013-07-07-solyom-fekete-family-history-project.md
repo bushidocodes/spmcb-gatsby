@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-# layout: post
 title: Sólyom Fekete Family History Project
 date: 2013-07-07T19:01:59-05:00 
 author: spmcbride1201
 permalink: solyom-fekete-family-history-project/
-comments: true
 coverimage: /img/posts/solyomFeketeCover.jpg
 ---
 Many of you know that I've had already had a handful of careers during my 27.5 years of life. Besides working in technology and serving in the Army, there was a brief period when I was a History PhD at Georgetown University. At that point in my life, I hoped to become a professional historian and university professor. My research interests were largely focused around 20th century European History. One of the coolest aspects of being a historian is doing original documentary research. While working as a research assistant for Dr. Fariboz Mokhtari, I had the chance to spend a fair amount of time at the National Archives looking through the Captured German Documents collection, where I discovered a number of documents on Abdol-Hossein Sardari, an Iranian diplomat that worked to save Jews from the Holocaust by arguing that they were racial Iranian. By finding and translating these documents, I was able to help Dr. Mokhtari craft the narrative of the book <a href="In the Lion's Shadow: The Iranian Schindler and His Homeland in the Second World War" target="_blank">In the Lion's Shadow</a>.

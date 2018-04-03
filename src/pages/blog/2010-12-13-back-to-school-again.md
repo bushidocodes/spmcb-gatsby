@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-# layout: post
 title: Back to School? Again?
 date: 2010-12-13T02:31:59-05:00
 author: spmcbride1201
 permalink: back-to-school-again/
-comments: true
 coverimage: /img/posts/backToSchoolCover.jpg
 ---
 As many of you know, I have been pretty hesitant to go back to school. It’s been nearly two years since I’ve had a traditional paycheck. This is not to imply that Georgetown University was not a lot of work (indeed it was) or that I do not appreciate fellowship / GI Bill stipends (indeed I do). It is just that I have recently been getting uneasy about my resume. Since leaving the Army, my resume bullet points have been largely academic and research-oriented, rather than being related to hard skills or a specific career track. This imbalance of education over experience is something that I’d like to fix. I’ve had several folks suggest that I start working in any field (Starbucks, broom pushing, Best Buy, etc.), just to get back on the job market. In fact, I know several people that have done this (one working fast food and one working retail). In my mind, this decision is very practical and demonstrates character (this guy was even willing to push a broom), while also fulfilling one’s inner desire to be financially independent through good and honest work.
