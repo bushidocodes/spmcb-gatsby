@@ -6,8 +6,11 @@ import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
 
 export const BlogPostTemplate = ({
+  author,
   content,
   contentComponent,
+  coverimage,
+  date,
   description,
   tags,
   title,
@@ -24,6 +27,8 @@ export const BlogPostTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <h4>{author} - {date}</h4>
+            {coverimage && <img src={coverimage} />}
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
@@ -58,6 +63,9 @@ const BlogPost = ({ data }) => {
 
   return (
     <BlogPostTemplate
+      author={post.frontmatter.author}
+      date={post.frontmatter.date}
+      coverimage={post.frontmatter.coverimage}
       content={post.html}
       contentComponent={HTMLContent}
       description={post.frontmatter.description}
@@ -82,6 +90,8 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
+        author
+        coverimage
         date(formatString: "MMMM DD, YYYY")
         title
         description
