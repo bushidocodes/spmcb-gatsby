@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: What would Jesus code?
-date: 2013-07-13 17:10
+date: 2013-07-13T17:10:59-05:00 
 author: spmcbride1201
 permalink: what-would-jesus-code/
 comments: true

@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: Career Guide Madness
-date: 2010-10-24 20:27
+date: 2010-10-24T20:27:59-05:00
 # author: spmcbride1201
 # permalink: career-guide-madness/
 # comments: true

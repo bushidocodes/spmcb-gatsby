@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: Sólyom Fekete Family History Project
-date: 2013-07-07 19:01
+date: 2013-07-07T19:01:59-05:00 
 author: spmcbride1201
 permalink: solyom-fekete-family-history-project/
 comments: true

@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: "Princess House Mysteries: Chapter 2"
-date: 2015-04-12 03:30
+date: 2015-04-12T03:30:59-05:00   
 author: spmcbride1201
 permalink: princess-house-mysteries-chapter-2/
 comments: true

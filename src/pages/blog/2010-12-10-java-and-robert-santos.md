@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: Java and Robert Santos
-date: 2010-12-10 03:18
+date: 2010-12-10T03:18:59-05:00
 author: spmcbride1201
 permalink: java-and-robert-santos/
 comments: true

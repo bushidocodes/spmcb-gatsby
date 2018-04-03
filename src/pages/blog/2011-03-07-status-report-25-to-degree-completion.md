@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: Status Report–25% to degree completion
-date: 2011-03-07 20:30
+date: 2011-03-07T20:30:59-05:00
 author: spmcbride1201
 permalink: status-report-25-to-degree-completion/
 comments: true

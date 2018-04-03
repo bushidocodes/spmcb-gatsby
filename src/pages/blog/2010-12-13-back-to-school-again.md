@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: Back to School? Again?
-date: 2010-12-13 02:31
+date: 2010-12-13T02:31:59-05:00
 author: spmcbride1201
 permalink: back-to-school-again/
 comments: true

@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: Transition from Blogger to WordPress
-date: 2013-07-05 10:02
+date: 2013-07-05T10:02:59-05:00 
 author: spmcbride1201
 permalike: transition-from-blogger-to-wordpress/
 comments: true

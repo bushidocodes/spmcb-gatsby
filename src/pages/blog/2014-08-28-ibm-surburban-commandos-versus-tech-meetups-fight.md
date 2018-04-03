@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: "IBM Surburban Commandos versus Tech MeetUps: FIGHT!"
-date: 2014-08-28 16:26
+date: 2014-08-28T16:26:59-05:00 
 author: spmcbride1201
 permalink: ibm-surburban-commandos-versus-tech-meetups-fight/
 comments: true

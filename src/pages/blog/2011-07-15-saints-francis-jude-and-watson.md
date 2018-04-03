@@ -2,7 +2,7 @@
 templateKey: blog-post
 # layout: post
 title: Saints Francis, Jude, and Watson
-date: 2011-07-15 13:43
+date: 2011-07-15T13:43:59-05:00 
 author: spmcbride1201
 # permalink: saints-francis-jude-and-watson/
 comments: true
