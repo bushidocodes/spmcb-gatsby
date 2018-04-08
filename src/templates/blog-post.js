@@ -1,9 +1,56 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import PropTypes from "prop-types";
+import { kebabCase } from "lodash";
+import Helmet from "react-helmet";
+import Link from "gatsby-link";
+import Content, { HTMLContent } from "../components/Content";
+import styled from "styled-components";
+
+const Section = styled.section`
+  padding: 3rem 1.5rem;
+`;
+
+const ContentWrapper = styled.div`
+  margin: 0 auto;
+  position: relative;
+  @media screen and (min-width: 1408px) {
+    max-width: 1344px;
+    width: 1344px;
+  }
+  @media screen and (min-width: 1216px) {
+    max-width: 1152px;
+    width: 1152px;
+  }
+  @media screen and (min-width: 1024px) {
+    max-width: 960px;
+    width: 960px;
+  }
+`;
+
+const Columns = styled.div`
+  margin-left: -0.75rem;
+  margin-right: -0.75rem;
+  margin-top: -0.75rem;
+  @media screen and (min-width: 769px) {
+    display: flex;
+  }
+
+  &:last-child {
+    margin-bottom: -0.75rem;
+  }
+`;
+
+const BlogTitle = styled.h1`
+  font-size: 32px;
+`;
+
+const Tags = styled.ul`
+  display: flex;
+  flex-direction: row;
+  li:not(:last-child) {
+    margin-right: 5px;
+  }
+`;
 
 export const BlogPostTemplate = ({
   author,
@@ -14,52 +61,52 @@ export const BlogPostTemplate = ({
   description,
   tags,
   title,
-  helmet,
+  helmet
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
-      {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <h4>{author} - {date}</h4>
+    <Section>
+      {helmet || ""}
+      <ContentWrapper>
+        <Columns>
+          <div>
+            <BlogTitle>{title}</BlogTitle>
+            <h4>{date}</h4>
             {coverimage && <img src={coverimage} />}
             <p>{description}</p>
             <PostContent content={content} />
             {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
+              <div>
                 <h4>Tags</h4>
-                <ul className="taglist">
+                <Tags>
                   {tags.map(tag => (
                     <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
+                      <Link to={`/tags/${kebabCase(tag)}/`}>
+                        <span className="tag is-info">{tag}</span>
+                      </Link>
                     </li>
                   ))}
-                </ul>
+                </Tags>
               </div>
             ) : null}
           </div>
-        </div>
-      </div>
-    </section>
-  )
-}
+        </Columns>
+      </ContentWrapper>
+    </Section>
+  );
+};
 
 BlogPostTemplate.propTypes = {
   content: PropTypes.string.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.instanceOf(Helmet),
-}
+  helmet: PropTypes.instanceOf(Helmet)
+};
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <BlogPostTemplate
@@ -73,16 +120,16 @@ const BlogPost = ({ data }) => {
       tags={post.frontmatter.tags}
       title={post.frontmatter.title}
     />
-  )
-}
+  );
+};
 
 BlogPost.propTypes = {
   data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
-}
+    markdownRemark: PropTypes.object
+  })
+};
 
-export default BlogPost
+export default BlogPost;
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
@@ -99,4 +146,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

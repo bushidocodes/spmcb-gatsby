@@ -72,58 +72,27 @@ intro:
         A single-page web app that overlays third party API data on top of a
         Google Maps depiction of Old Town Alexandria, VA.
 main:
-  heading: Great coffee with no compromises
+  heading: Assorted Action Shots!
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    SPMCB often views this site to look at these awesome photos of himself!
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Beautiful jog on a beautiful day with my beautiful wife!
+    image: /img/running-with-wife.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/scrum-selfie.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/wedding-blues.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Dr. Fariborz Mokhtari
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      He is a pleasant young man with a disarming smile and good humor. He makes an excellent colleague. He has my highest recommendation.
+  - author: Chris Ganim
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+      I am grateful for the time I spent learning from Sean and observing his incredible work ethic!
+  - author: Andy Quintana
+    quote: >-
+      Sean is dedicated hard working individual that always strives for the best. He quickly embraces challenges and builds expertise utilizing his ability to learn very complex information in a short period of time. 
 full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
 ---
-
