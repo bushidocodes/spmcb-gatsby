@@ -11,10 +11,9 @@ tags:
   - retrospective
 ---
 
-
 # After a decade of career compromises, I'm finally following my passions
 
-Ideally, when someone graduates from college, they should understand their interests and aspirations and map that to a career that the economy can support. For the lucky ones, this happens early and painlessly, and the road to adulthood is a smooth and pothole free onramp onto the fast lane of life. This is how I thought of myself in 2007 following my graduation from West Point and my commissioning as a Second Lieutenant in the U.S. Army. However, life had other plans, and one day after promoting to First Lieutenant, I found myself medically discharged without clear career objectives during the height of the Great Recession. Without money, connections, or clear direction, it took me around two years to figure out my career ambitions, and eight years of career pivots to finally get to a position where I'm firing on all cylinders and excited by what I do each day. 
+Ideally, when someone graduates from college, they should understand their interests and aspirations and map that to a career that the economy can support. For the lucky ones, this happens early and painlessly, and the road to adulthood is a smooth and pothole free onramp onto the fast lane of life. This is how I thought of myself in 2007 following my graduation from West Point and my commissioning as a Second Lieutenant in the U.S. Army. However, life had other plans, and one day after promoting to First Lieutenant, I found myself medically discharged without clear career objectives during the height of the Great Recession. Without money, connections, or clear direction, it took me around two years to figure out my career ambitions, and eight years of career pivots to finally get to a position where I'm firing on all cylinders and excited by what I do each day.
 
 While 2016 was the year of making a plan and setting it in motion, 2017 was the year that I finally took a leap and left my safe federal job behind to be a fullstack developer at a startup. I'm currently happier than any other job that I've ever had since leaving the Army, so the decade of compromise seems to be behind me.
 
@@ -26,7 +25,7 @@ This is why, at the start of 2017, I was a student at Fullstack Academy pulling 
 
 ## I started an exciting new greenfield project
 
-When I started at Decipher, I was made the first full-time developer on the Grey Matter framework. This assignment gave me more freedom that I've ever had in any previous project. I was free to select our technical stack, design our application architecture, and perform all initial development work. Occasionally, key milestones forced me into major crunch-mode, working 70+ hours per week. 
+When I started at Decipher, I was made the first full-time developer on the Grey Matter framework. This assignment gave me more freedom that I've ever had in any previous project. I was free to select our technical stack, design our application architecture, and perform all initial development work. Occasionally, key milestones forced me into major crunch-mode, working 70+ hours per week.
 
 Based on the initial success of my product, Decipher gave me the go ahead to reach out to my network and hire other new developers. By leveraging the Fullstack Academy alumni network, I was able to connect with two recent Grace Hopper Academy graduates. These two highly enthusiastic candidates made it through the interview and became Decipher's first two female software developers. Shortly thereafter, we hired a third new front-end engineer brought to us from our recruiter. After being the sole front-end developer for Grey Matter, I found myself back in a leadership position, running our agile process, reviewing pull requests, and mentoring our newest junior engineers. I think our team ended up being the most fun-loving and enthusiastic at the company, making our sprints a job.
 

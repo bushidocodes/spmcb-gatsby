@@ -12,6 +12,7 @@ coverimage: /img/posts/wazup.jpg
 After the first week of my junior phase at [Fullstack Academy](http://www.fullstackacademy.com/), it's clear to me that Regular Expressions is a concept that I need to master quickly. In the past, I've usually performed string manipulation through verbose and brute-force if/else logic. This approach does not work cleaning in succint functional styles of writing JavaScript. This content is derived from notes I took during the CodeSchool course I link at the bottom of this page and experimentation that I performed on [RegEx101.com](https://regex101.com/). While these materials are primarily intended to serve as a personal reference, I've posed them to my blog in case they might help others.
 
 ## Regular Expression Literals
+
 A regular expression literal is a string of characters.
 
 For example, if you wanted to match the word "boat," you could use the following regex
@@ -28,9 +29,7 @@ The OR `|` operator can be used on only part of a regular expression literal usi
 
 Sometimes, a regular expression literal may have an unknown number of characters, like [when you're just watching the game and having a Bud, and your friend calls.](https://www.youtube.com/watch?v=KolWWgiWG88)
 
-/waz+up!/  //true for "wazup!" "wazzzup!" "wazzzzzzzzup!"
-
-![Image of Budweiser Wazup Commercial](/img/posts/wazup.jpg)
+/waz+up!/ //true for "wazup!" "wazzzup!" "wazzzzzzzzup!"
 
 A regular expression literal can match multiple word by including white space in the literal.
 
@@ -51,6 +50,7 @@ In addition to matching a "boat" or "ship," a Regex evaluates to true if it is a
 Often this is an undesired behavior.
 
 To explicitly only match full matches and ignore partial matches, you can use anchor characters:
+
 * `^` limits true to strings that start with an exact match of the regex without any preceeding text
 * `$` limits true to strings that have no text following the match of the regex
 * `\b` limits true to words within strings that have no characters immediately preceeding or following the match of the regex
@@ -59,10 +59,11 @@ To explicitly only match full matches and ignore partial matches, you can use an
 
 `/\bship\b/` //true for "ship" or "I boarded the ship" but false for "battleship" or "shipping"
 
-`/\b(ship|boat)\b/` //true for "ship" or "boat" or "I boarded the ship" "small boat" but false for "battleship" or "shipping"  or "rowboat" or "boatswain"
+`/\b(ship|boat)\b/` //true for "ship" or "boat" or "I boarded the ship" "small boat" but false for "battleship" or "shipping" or "rowboat" or "boatswain"
 
 ## Character Set
-This matches a *single character* against a permissable range of characters in a regex.
+
+This matches a _single character_ against a permissable range of characters in a regex.
 
 `[a-z]` //Any lowercase letter from a to z.
 
@@ -96,7 +97,7 @@ For example, the last regex matching both lowercase and uppercase letters can be
 
 `//[a-z]+/i`
 
-*Note that modifiers are language specific, so double check the syntax for these using your language*
+_Note that modifiers are language specific, so double check the syntax for these using your language_
 
 ## Special Characters and Metacharacters
 
@@ -109,11 +110,12 @@ For example, the last regex matching both lowercase and uppercase letters can be
 * `?` makes the preceeding pattern optional
 
 Many of the special characters have a shorthand NOT notation that uses the capitalized version of the normal special character
+
 * `\D` matches anything but a number, shorthand for `[^\d]`
 * `\S` matches anything but whitespace, shorthand `[^\s]`
 * `\W` matches anything but an alpha-numeric character, shorthand `[^\w]`
 
-*If you want to literally match a character that is used as a special or metacharacter, you can escape the character with a backslash.*
+_If you want to literally match a character that is used as a special or metacharacter, you can escape the character with a backslash._
 
 `/.com/` //true for ".com" or "zcom" or "!com"
 
@@ -189,6 +191,7 @@ If you are using capture groups, you need to mark all uses of paratheses that ar
 `/(^(?:http://|https://)?(?:www\.)?\w+\.(?:gov|com|net|edu)$)/`
 
 ## Additional Resources for JavaScript
+
 * [CodeSchool's Breaking the Ice with Regular Expressions Course](https://www.codeschool.com/courses/breaking-the-ice-with-regular-expressions)
 * [Eloquent JavaScript, Chapter 9: Regular Expressions](http://eloquentjavascript.net/09_regexp.html)
 * [JavaScript RegExp on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)

@@ -6,6 +6,7 @@ author: spmcbride1201
 permalink: princess-house-mysteries-chapter-3/
 coverimage: /img/posts/phmc3Cover.jpg
 ---
+
 <a href="http://spmcb.com/princess-house-mysteries-chapter-2/" target="_blank">In my last post, I discussed some of my initial thoughts about where my house was actually located between when it was built circa 1850 and when it was moved to the "Uptown" neighborhood of Alexandria in 1880.</a> In this post, I'd like to focus on what stood on the land around the 1200 block before the development of the residential neighborhood.
 
 Similar to other East Coast cities, the growth of Alexandria City was well planned and orderly. As a young surveyor, one of George Washington's first assignments was an early survey of the town of Alexandria. Over time, the town expanded west, and, <a href="http://alextimes.com/2008/02/street-names-reflect-alexandrias-history/" target="_blank">as this excellent Alexandria Times article explains</a>, the naming of the streets evolved alongside Alexandria's identity as colonial, revolutionary, and later confederate city. By the time of Alexandria D.C.'s 1972 Plan (completed one year after the L'Enfant Plan for the Maryland side of D.C.), the city had established a grid system of blocks and street names out as far as West Street. The plot of land where my house currently resides sat at the corner of Princess Street and Fayette Street (named after Marquis de Lafayette), forming an intersection of royalist and revolutionary sentiments.</span>

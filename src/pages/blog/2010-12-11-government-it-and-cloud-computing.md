@@ -6,6 +6,7 @@ author: spmcbride1201
 permalink: government-it-and-cloud-computing/
 coverimage: /img/posts/cloudFirstCover.png
 ---
+
 The Chief Information Officer of the Federal Government [recently released a new plant to shift the majority of government IT into the “cloud”](https://it.slashdot.org/story/10/12/11/1940252/Feds-To-Adopt-Cloud-First-IT-Policy) in the near future. This means a decrease in local IT personnel and servers by concentrating government data in larger centers that can be accessed remotely.
 
 Considering the fact that I’m thinking about future IT employment with the federal government, I’ll be interested to see how this plays out. Interestingly, the US Department of Agriculture decided to contract with Microsoft to shift its communications and productivity software to the cloud. The Microsoft data center is located locally in Chicago and will handle all of these services for the Department.

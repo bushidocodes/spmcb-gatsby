@@ -6,6 +6,7 @@ author: spmcbride1201
 permalink: solyom-fekete-family-history-project/
 coverimage: /img/posts/solyomFeketeCover.jpg
 ---
+
 Many of you know that I've had already had a handful of careers during my 27.5 years of life. Besides working in technology and serving in the Army, there was a brief period when I was a History PhD at Georgetown University. At that point in my life, I hoped to become a professional historian and university professor. My research interests were largely focused around 20th century European History. One of the coolest aspects of being a historian is doing original documentary research. While working as a research assistant for Dr. Fariboz Mokhtari, I had the chance to spend a fair amount of time at the National Archives looking through the Captured German Documents collection, where I discovered a number of documents on Abdol-Hossein Sardari, an Iranian diplomat that worked to save Jews from the Holocaust by arguing that they were racial Iranian. By finding and translating these documents, I was able to help Dr. Mokhtari craft the narrative of the book <a href="In the Lion's Shadow: The Iranian Schindler and His Homeland in the Second World War" target="_blank">In the Lion's Shadow</a>.
 
 Since leaving the History PhD, I have had to become more creative in finding activities to appeal to my inner "document sleuth." One of these activities has been family genealogy, and I've gradually been able to uncover quite a bit of interesting information about my ancestors. Unfortunately, after a while, genealogy hits the ceiling of what's possible. One runs out of censuses or discovers that family documents were destroyed in a fire or a world war. Oftentimes, a family historian can track family members back to immigration papers to the United States, but is unable to discover leads on family history in the "Old World." For the most part, I've hit that limit with my ancestors. Thankfully, being married gives me a whole new branch of the family to research!
@@ -19,7 +20,6 @@ Over the next year, I'm going to work to gradually scan and translate these docu
 Here is a document to give you an idea of what I have:
 
 ![Certificate for the Order of the Iron Crown third class awarded to Gerard Sólyom Fekete](/img/posts/2013-07-07-12.42.46.jpg)
-
 
 This document is a certificate dated October 17, 1916 awarding Hauptmann (Captain) Gerard Sólyom Fekete of the 7th Sapper Company of the 42nd Infantry Division the<a href="http://en.wikipedia.org/wiki/Order_of_the_Iron_Crown" target="_blank"> Order of the Iron Crown</a> - Third Class (with War Decoration). I'm guessing that the modern American equivalent of this award would be the Bronze Star with V Device. The top of the certificate says "His Majesty, the Kaiser of Austria, King of Bohemia etc., and Apostolic King of Hungary."
 

@@ -15,8 +15,6 @@ Earlier today, I was pleased to discover that FedEx had shipped me an important 
 
 After ripping open the box, getting all the cords untied, and getting the updates installed on both the phone and the Daydream controller, I slid the handset into the headset (say that 5x fast) and materialized in a three-dimensional forest.
 
-![Picture of me looking ridiculous](/img/posts/daydream-cav.jpg)
-
 Fast forward thirty minutes, and I was staring at the very cool VR menu of Daydream-enabled apps. There were 360 degree panoramas in Google Photos, VR cinema mode in HBO Go (perfect for re-watching Westworld Season 1), and even a VR-ified version of the very-frightening [LAYERS OF FEAR](http://uploadvr.com/layers-fear-coming-daydream-year/).
 
 What more could a web dev want? Well, I suppose Chrome...
@@ -28,6 +26,7 @@ After all, a few months ago, I put together a basic VR app using Aframe of the I
 The bottom line is that this is not currently possible out of box. However, this guide will help get you there! Isn't that a nice guide?
 
 ## Step One: Enable Developer Mode on your Pixel.
+
 By default, Google hides the developer menu on modern Android phones about as well as my father would hide Easter eggs when I was a kid. Well, at least the developer menu doesn't stink up your house after remaining unfound for months of end. Spoiler Alert: if you navigate to settings menu, go to “About device,” and touch the “build number” seven times. I'd mention that this reminds me of some Buddhist thing where you recite the Buddha's name seven times, but that would totally mix up my religious references, so I'll leave it at that.
 
 <img alt='Screenshot showing the build numbers field that you need to touch seven times' src='/img/posts/daydream/unlock-developer-options.jpg' style='max-width: 540px;'>
@@ -57,10 +56,10 @@ Here is an image of my current Daydream WebVR toolset:
 
 And here's the use case for each of these tools:
 
-- Chromium - Display and Render WebVR content. See section below.
-- File Commander - Access Android's Linux file system to sideload Android Apps (apks) and create folders for transferring and serving WebVR apps. [Download](https://play.google.com/store/apps/details?id=com.mobisystems.fileman)
-- Ftp server - Simple Tool for allowing your dev machine to access your Android filesystem via ftp. [Download](https://play.google.com/store/apps/details?id=com.theolivetree.ftpserver)
-- Simple HTTP Server - Simple HTTP server that allows your Pixel to directly serve your WebVR apps to Chromium via localhost. [Download](https://play.google.com/store/apps/details?id=jp.ubi.common.http.server)
+* Chromium - Display and Render WebVR content. See section below.
+* File Commander - Access Android's Linux file system to sideload Android Apps (apks) and create folders for transferring and serving WebVR apps. [Download](https://play.google.com/store/apps/details?id=com.mobisystems.fileman)
+* Ftp server - Simple Tool for allowing your dev machine to access your Android filesystem via ftp. [Download](https://play.google.com/store/apps/details?id=com.theolivetree.ftpserver)
+* Simple HTTP Server - Simple HTTP server that allows your Pixel to directly serve your WebVR apps to Chromium via localhost. [Download](https://play.google.com/store/apps/details?id=jp.ubi.common.http.server)
 
 ## Step Four: Download Latest Chromium Nightly
 
@@ -78,10 +77,10 @@ Chrome has recently added beta support for WebVR, but it has not yet made it out
 
 Go to chrome://flags on your phone and enable the following options:
 
-- Allow invalid certificates for resources loaded from localhost
-- Enable WebVR
-- Enable Chrome VR
-- Enable Gamepad Extensions
+* Allow invalid certificates for resources loaded from localhost
+* Enable WebVR
+* Enable Chrome VR
+* Enable Gamepad Extensions
 
 <img alt='Chrome Flag to Allow Invalid Certs' src='/img/posts/daydream/allow-invalid-certs.jpg' style='max-width: 540px;'>
 <img alt='Chrome Flag toEnable WebVR and Chrome VR' src='/img/posts/daydream/enable-webvr.jpg' style='max-width: 540px;'>
@@ -96,30 +95,34 @@ Finally, test that you can render WebVR content by checking out this site using 
 [WebVR Example](https://threejs.org/examples/webvr_cubes.html)
 
 ## Known Issues
-1. Google Chrome is the only currently supported WebVR browser for Android
-2. Most of the WebVR support is highly experimental and is actively being developed, which is why we need to sideload a Chromium nighly
-3. If you enter Daydream mode accessing a WebVR app not served over https, you will receive a message: `Your connection to this site is not private. To exit VR mode at any time, remove this headset and push back.` Supposedly, this message disappears after 30 seconds and loads the app, but that did not work for me.
-4. ReactVR seems to offer only serve dev builds of WebVR over http, which cannot be viewed by daydream.
-5. If you are trying to render a WebVR application off a development machine on your LAN and you have issues, consider turning off your local firewall on your development machine to check if that is interfering.
+
+1.  Google Chrome is the only currently supported WebVR browser for Android
+2.  Most of the WebVR support is highly experimental and is actively being developed, which is why we need to sideload a Chromium nighly
+3.  If you enter Daydream mode accessing a WebVR app not served over https, you will receive a message: `Your connection to this site is not private. To exit VR mode at any time, remove this headset and push back.` Supposedly, this message disappears after 30 seconds and loads the app, but that did not work for me.
+4.  ReactVR seems to offer only serve dev builds of WebVR over http, which cannot be viewed by daydream.
+5.  If you are trying to render a WebVR application off a development machine on your LAN and you have issues, consider turning off your local firewall on your development machine to check if that is interfering.
 
 ## Future Steps (under construction)
 
 ### Improve Write-Run-Cycle by better integrating the Daydream Headset into your development workflow
+
 Because off-the-shelp boilerplate from A-Frame and ReactVR seems to only offer live-reloads over http, this workflow is incompatible with the Chrome security restriction that the Daydream can only render WebVR over https.
 
 Possible solutions for this problem include:
 
-- Modifying the existing boilerplate to serve over https using self-signed SSL certs that you create or snag from someone else, like [https://github.com/Spaciblo/spaciblo-core/tree/master/test_certs](here)
-- Installing adb port forwarding, which redirects localhost resolution on the Pixel to the range of localhost ports on the development machine
-- Manually or using a script to push code to an ftp server run on the Pixel headset itself.
+* Modifying the existing boilerplate to serve over https using self-signed SSL certs that you create or snag from someone else, like [https://github.com/Spaciblo/spaciblo-core/tree/master/test_certs](here)
+* Installing adb port forwarding, which redirects localhost resolution on the Pixel to the range of localhost ports on the development machine
+* Manually or using a script to push code to an ftp server run on the Pixel headset itself.
 
 An ideal solution would allow remote debugging of the WebVR application running on the Pixel in Daydream mode to be able to capture performance data to ensure 60fps. For this to be accurate, screen mirroring will likely have to be disabled.
 
 ### Register your hostname with Google Origin as an Endpoint with WebVR enabled
+
 When your app is ready for deployment, you will have to register your server with Google as a valid endpoint for WebVR.
 
 ## Further Reading
-- [https://techcrunch.com/2016/10/06/oculus-webvr/](Oculus WebVR)
-- [https://developer.oculus.com/blog/introducing-the-react-vr-pre-release/](ReactVR Pre-release)
-- [https://developer.android.com/studio/run/device.html#developer-device-options](Enabling On-device Developer Options)
-- [https://developers.google.com/web/tools/chrome-devtools/remote-debugging/](Get Started with Remote Debugging Android Devices)
+
+* [https://techcrunch.com/2016/10/06/oculus-webvr/](Oculus WebVR)
+* [https://developer.oculus.com/blog/introducing-the-react-vr-pre-release/](ReactVR Pre-release)
+* [https://developer.android.com/studio/run/device.html#developer-device-options](Enabling On-device Developer Options)
+* [https://developers.google.com/web/tools/chrome-devtools/remote-debugging/](Get Started with Remote Debugging Android Devices)

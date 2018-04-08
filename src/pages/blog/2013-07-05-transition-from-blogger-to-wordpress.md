@@ -6,11 +6,13 @@ author: spmcbride1201
 permalike: transition-from-blogger-to-wordpress/
 coverimage: /img/posts/bloggerToWordpressCover.png
 ---
+
 My personal blog has been relatively stale over the past few years. Partially that has had to do with being so busy working at IBM and completing my graduate studies at the Illinois Institute of Technology. However, now that I've finished my graduate studies, I'm hoping to reconnect to personal blogging in order to be able to have a place to write about big picture things about life, career, leisure, etc. beyond the sorts of technical posts I write for the Millennial Mainframer blog.</span>
 
 One of the first actions I took was opening a Wordpress.com blog and porting over my old posts from Blogger. At this point, I've got quite a spread-out porfolio of web content, and I'm looking to try to consolidate. Given the flexibility of Wordpress, I'm particularly thinking about phasing out my custom HTML site currently hosted at SPMCB.com and rehosting the content on a Wordpress-based site. This could either be a Wordpress.com pro account or a custom hosted Wordpress site.
 
 I'm sure that I must some friends that have gone through these sorts of decision points before, so I would really appreciate your feedback. In my mind, here are the most compelling reasons to move to WordPress:
+
 <ul>
 	<li>It's the lingua franca of blogging, giving it a strong community of plug-ins and themes</li>
 	<li>It offers a far greater degree of customization, even to the point that many commercial websites use the software</li>

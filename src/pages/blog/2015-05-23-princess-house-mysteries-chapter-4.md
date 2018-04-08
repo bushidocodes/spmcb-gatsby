@@ -6,12 +6,12 @@ author: spmcbride1201
 permalink: princess-house-mysteries-chapter-4/
 coverimage: /img/posts/phmc4Cover.jpg
 ---
+
 First things first, there have been some setbacks with my Princess House Research. Nothing tragic, but a bit frustrating for me personally. Let me set the stage for you so that you can empathize.
 
 About three weeks ago, I finally worked up the courage to go to the Land Records Department of the Alexandria City Courthouse and find the original deed from Benjamin Williams' 1880 purchase of 1204 Princess Street. After going through security, taking the elevator up to the third floor, and making my way past lines of people visiting the clerk to get married or divorced, I arrived at the Land Records Department. It took me a moment to orient myself to this large room filled with ledgers, but before long, I found the book that I was looking for: <em>General Index to Deeds, No. 6, 1871-1884</em>.
 
 ![Deeds Ledger at the Courthouse Archives](/img/posts/20150508_194941715_iOS-768x1024.jpg)
-
 
 Figuring out how this book was organized was a bit tricky. The names of the buyers and sellers are both recorded into a single index that is alphabetized by both last name and first name. However, after ten minutes of page flipping, I found the entry that I was looking for.
 
@@ -20,7 +20,6 @@ Figuring out how this book was organized was a bit tricky. The names of the buye
 According to this ledger, Benjamin Williams purchased 1204 Princess Street from Ann Eliza Page on January 5th, 1880. Furthermore, I could find the actual deed on page 574 of book 8 in this series. Great!
 
 However, one thing surprised me. Based on an 1877 map of Alexandria, I learned that my entire city block was owned by a man named William C. Yeaton, so I was expecting to find his name here. I'm not sure who this Ann Eliza Page person is, but to learn a bit more about her, I cross referenced her name in the index.
-
 
 ![Deeds Ledger open to first page of entries showing Anne Page](/img/posts/20150508_195835216_iOS-1024x768.jpg)
 

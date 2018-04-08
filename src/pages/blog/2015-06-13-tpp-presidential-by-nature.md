@@ -6,7 +6,6 @@ author: spmcbride1201
 permalink: tpp-presidential-by-nature/
 coverimage: /img/posts/obama_tpp_041015-825x510.jpg
 ---
-![President Obama negotiating the Trans-Pacific Partnership](/img/posts/obama_tpp_041015-825x510.jpg)
 
 T.P.P., how can I explain it
 

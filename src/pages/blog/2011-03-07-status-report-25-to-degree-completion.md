@@ -6,9 +6,11 @@ author: spmcbride1201
 permalink: status-report-25-to-degree-completion/
 coverimage: /img/posts/twentyFivePercentCover.jpg
 ---
+
 It’s difficult to believe, but I am now working through Midterms week of my first of two semesters for my Masters of IT Management program. Glancing back at my blog, I see that my last post on December 12th essentially lamented the fact that I needed to return to school. To bring you all up to speed, after having a wonderful Christmas back in California with my wife, I started my coursework at the Illinois Institute of Technology. My semester has been pretty busy with various technical projects, but I’m happy to say that I’m on track to graduate from my program in December.
 
 My coursework has been pretty interesting so far. Here’s a run-down of the courses I’m taking
+
 <ul>
 	<li>Project Management for IT – This course teaches Project Management techniques through lecture and hands-on group projects. It is designed to prepare me for the Project Management Professional (PMP) certification</li>
 	<li>Network and Internet Technologies – This course focuses on teaching the ways that the networking technologies beneath networks and internetworks functions. It also is tied to the CompTia Net+ certification</li>
