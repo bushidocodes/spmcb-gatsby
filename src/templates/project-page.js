@@ -87,6 +87,10 @@ export const ProjectPageTemplate = ({
                   </div>
                 </div>
               </div>
+              <h3 className="has-text-weight-semibold is-size-3">
+                Testimonials
+              </h3>
+              <p>Nice things people said about me</p>
               <Testimonials testimonials={testimonials} />
               <div
                 className="full-width-image-container"

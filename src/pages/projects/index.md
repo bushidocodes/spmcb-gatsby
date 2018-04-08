@@ -73,18 +73,18 @@ intro:
         A single-page web app that overlays third party API data on top of a
         Google Maps depiction of Old Town Alexandria, VA.
 main:
-  heading: Assorted Action Shots!
+  heading: Photos
   description: >
-    SPMCB often views this site to look at these awesome photos of himself!
+    Just me looking great in a variety of settings
   image1:
+    alt: Looking Nerdy in Army Blues
+    image: /img/wedding-blues.jpg
+  image2:
     alt: Beautiful jog on a beautiful day with my beautiful wife!
     image: /img/running-with-wife.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/scrum-selfie.jpg
   image3:
-    alt: Coffee beans
-    image: /img/wedding-blues.jpg
+    alt: Scrum Selfie when we released 1.0 of Grey Matter Fabric Dashboard
+    image: /img/scrum-selfie.jpg
 testimonials:
   - author: Dr. Fariborz Mokhtari
     quote: >-
