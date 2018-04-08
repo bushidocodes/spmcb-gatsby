@@ -3,8 +3,15 @@ import PropTypes from "prop-types";
 import styled from "styled-components";
 
 const ContentWrapper = styled.div`
-  p:not(:first-child) {
-    margin-top: 20px;
+  h1 {
+    font-size: 40px !important;
+  }
+
+  h2 {
+    font-size: 32px !important;
+  }
+  p:not(:last-child) {
+    margin-bottom: 20px;
   }
 
   ul,
