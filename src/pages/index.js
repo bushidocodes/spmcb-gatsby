@@ -39,7 +39,7 @@ export default class IndexPage extends React.Component {
                     </p>
                   </header>
                   {post.frontmatter.coverimage && (
-                    <div className="card-image">
+                    <div style={{ height: "260px", overflow: "hidden" }}>
                       <img src={post.frontmatter.coverimage} />
                     </div>
                   )}
