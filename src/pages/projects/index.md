@@ -62,7 +62,8 @@ intro:
       text: >-
         A browser game similar to Frogger built in JavaScript using the HTML5
         Canvas.
-    - links:
+    - image: /img/projects/oldtown.jpg
+      links:
         - name: GitHub
           targetURL: 'https://github.com/spmcbride1201/oldtown-map'
         - name: Demo
