@@ -11,7 +11,7 @@ tags:
   - retrospective
 ---
 
-# After a decade of career compromises, I'm finally following my passions
+## After a decade of career compromises, I'm finally following my passions
 
 Ideally, when someone graduates from college, they should understand their interests and aspirations and map that to a career that the economy can support. For the lucky ones, this happens early and painlessly, and the road to adulthood is a smooth and pothole free onramp onto the fast lane of life. This is how I thought of myself in 2007 following my graduation from West Point and my commissioning as a Second Lieutenant in the U.S. Army. However, life had other plans, and one day after promoting to First Lieutenant, I found myself medically discharged without clear career objectives during the height of the Great Recession. Without money, connections, or clear direction, it took me around two years to figure out my career ambitions, and eight years of career pivots to finally get to a position where I'm firing on all cylinders and excited by what I do each day.
 
