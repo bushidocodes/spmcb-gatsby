@@ -194,16 +194,6 @@ export const ProjectPageQuery = graphql`
           quote
         }
         full_image
-        pricing {
-          heading
-          description
-          plans {
-            description
-            items
-            plan
-            price
-          }
-        }
       }
     }
   }
