@@ -3,19 +3,22 @@ templateKey: about-page
 title: About
 ---
 
-## tldr
+## 👋 Hi! I'm Sean. 👋
 
-I'm Sean McBride. I live in [historic Old Town Alexandria](https://www.visitalexandriava.com/old-town-alexandria/) with my lovely wife Erica. Our house was likely moved on felled logs to its current spot in 1880, an act that sure seems a lot more demanding that what I do for a living: web applications development.
+I'm currently a Senior Software Engineer at [Decipher Tech Studios](http://deciphernow.com/). Previously, I've worked as a Cloud Architect at the [FAA](https://www.faa.gov/), a senior IT Specialist at [IBM](https://www.ibm.com/us-en/), and an Officer in the [U.S. Army](https://www.army.mil/). My three passions are tech, history, and the military. Each of these things have been my primary occupation at one time, but I've optimized my life my making tech my profession and history and the military as hobbies. I live in a 19th century townhouse in [Old Town Alexandria](https://www.visitalexandriava.com/old-town-alexandria/) with my wife Erica, and when I'm not doing tech stuff or DIY house projects, I enjoy running along the Potomac or reading a good history book or issue of the Economist.
+
+<!-- 
+I'm Sean McBride. I live in historic Old Town Alexandria with my lovely wife Erica. Our house was likely moved on felled logs to its current spot in 1880, an act that sure seems a lot more demanding that what I do for a living: web applications development.
 
 I've been deeply into computers since 1993, and deeply into history and the military since 2000. I've rotated my primary occupation between these three things over the years, but all three aspects have always been present. It just seems that the market pays me best to treat tech as my occupation and history and the military as hobbies.
 
 My current jam is "fullstack development," which for me involves building web apps using React and a server-side Node.js layer to orchestrate (duct-tape together) APIs and stuff things into a database.
 
-When I'm not doing tech stuff or DIY house projects, I enjoy hanging out with my lovely wife Erica, running along the Potomac, or reading a good history book or issue of the Economist.
+When I'm not doing tech stuff or DIY house projects, I enjoy hanging out with my lovely wife Erica, running along the Potomac, or reading a good history book or issue of the Economist. -->
 
-## Career Biography
+<!-- ## Career Biography
 
-While I generally think that most folks are largely in control of their own destiny, it's super clear to me that many of the core aspects of my personality have been shaped by where I grew up and the decisions of my family and friends when I was a small child. In my case, I grew up in [Fairfield, California](https://en.wikipedia.org/wiki/Fairfield,_California), a distant exurb of the San Francisco Bay Area directly adjesant to a major Air Force base. This exposed me to the computers and the military much more than the average person.
+While I generally think that most folks are largely in control of their own destiny, it's super clear to me that many of the core aspects of my personality have been shaped by where I grew up and the decisions of my family and friends when I was a small child. In my case, I grew up in [Fairfield, California](https://en.wikipedia.org/wiki/Fairfield,_California), a distant exurb of the San Francisco Bay Area directly adjacent to a major Air Force base. This exposed me to the computers and the military much more than the average person.
 
 ### Computing in the outskirts of Silicon Valley (1993 - 2003)
 
@@ -45,4 +48,4 @@ The eight years of my tech career has been blur of different projects that requi
 
 Since the web development community is super young, I now generally find myself playing the role of senior engineer on most projects. This has forced me to stretch my leadership and coaching muscles a bit and dedicate time to work through my reading list of software engineering books. It's kinda weird, but I'm getting to the point where I like reading about design patterns and agile methodologies. Whoda thunk it? I've also gotten to the point where people I've mentored have started to go gangbusters as software journey(wo)men. This makes me feel a bit like a software O.G. (original gangsta), but the constant churn of frontend technologies forces me to keep on my toes and regularly delivers the sort of dopamine burst i first got when I popped in the Windows 95 CD-ROM and my mid-90s homebuilt PC first came to life.
 
-It's hard to say what language or frameworks I might be using a few years from now, but I feel like my nerdy technical chops and my military grit put me in a good place to keep up. Each passing year, I feel like my rough edges are getting a bit more worn down, helping me become a better version of myself. I also become more cognizant of the many small blessings that have allowed me to live this amazing life.
+It's hard to say what language or frameworks I might be using a few years from now, but I feel like my nerdy technical chops and my military grit put me in a good place to keep up. Each passing year, I feel like my rough edges are getting a bit more worn down, helping me become a better version of myself. I also become more cognizant of the many small blessings that have allowed me to live this amazing life. -->
