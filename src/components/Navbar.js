@@ -47,7 +47,7 @@ class Navbar extends Component {
           <div className="navbar-end">
             <a
               className="navbar-item"
-              href="https://www.linkedin.com/in/spmcbride1201/"
+              href="https://www.linkedin.com/in/bushidocodes/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -57,7 +57,7 @@ class Navbar extends Component {
             </a>
             <a
               className="navbar-item"
-              href="https://twitter.com/spmcbride1201"
+              href="https://twitter.com/bushidocodes"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -67,7 +67,7 @@ class Navbar extends Component {
             </a>
             <a
               className="navbar-item"
-              href="https://github.com/spmcbride1201"
+              href="https://github.com/bushidocodes"
               target="_blank"
               rel="noopener noreferrer"
             >
