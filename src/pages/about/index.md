@@ -5,7 +5,27 @@ title: About
 
 ## 👋 Hi! I'm Sean. 👋
 
-I'm currently a Senior Software Engineer at [Decipher Tech Studios](http://deciphernow.com/). Previously, I've worked as a Cloud Architect at the [FAA](https://www.faa.gov/), a senior IT Specialist at [IBM](https://www.ibm.com/us-en/), and an Officer in the [U.S. Army](https://www.army.mil/). My three passions are tech, history, and the military. Each of these things have been my primary occupation at one time, but I've optimized my life my making tech my profession and history and the military as hobbies. I live in a 19th century townhouse in [Old Town Alexandria](https://www.visitalexandriava.com/old-town-alexandria/) with my wife Erica, and when I'm not doing tech stuff or DIY house projects, I enjoy running along the Potomac or reading a good history book or issue of the Economist.
+I'm a West Point graduate and former Army Officer turned Software Engineer that draws inspiration from military history and warrior cultures. You can consider an aspiring Software Samurai.
+
+Known as honorable men of action, the Samurai were guided by the unwritten chivalric code of Bushido, which espoused a vision of proper behavior centered on eight virtues:
+
+* Rectitude
+* Courage
+* Benevolence
+* Politeness
+* Honesty
+* Honor
+* Loyalty
+* Character
+
+I view these virtues as timeless and as essential today as they were during the days of the Daimyōs. I hear echos of them in the [Army Values](https://www.army.mil/values/index.html) and the West Point motto _Duty, Honor, Country_.
+
+As best as possible, I seek to carry these virtues forward in my software projects and interactions with my colleagues and clients. If longing for the chivalric codes of the past during a chaotic present makes me seem like a Don Quixote, color me quixotic.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yJlgio-UOng?start=236" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<!-- <br><br>
+In my day job, I'm currently a Senior Software Engineer at [Decipher Tech Studios](http://deciphernow.com/). Previously, I've worked as a Cloud Architect at the [FAA](https://www.faa.gov/), a senior IT Specialist at [IBM](https://www.ibm.com/us-en/), and an Officer in the [U.S. Army](https://www.army.mil/). My three passions are tech, history, and the military. Each of these things have been my primary occupation at one time, but I've optimized my life my making tech my profession and history and the military as hobbies. I live in a 19th century townhouse in [Old Town Alexandria](https://www.visitalexandriava.com/old-town-alexandria/) with my wife Erica, and when I'm not doing tech stuff or DIY house projects, I enjoy running along the Potomac or reading a good history book or issue of the Economist. -->
 
 <!-- 
 I'm Sean McBride. I live in historic Old Town Alexandria with my lovely wife Erica. Our house was likely moved on felled logs to its current spot in 1880, an act that sure seems a lot more demanding that what I do for a living: web applications development.
