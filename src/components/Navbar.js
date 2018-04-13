@@ -4,7 +4,7 @@ import Link from "gatsby-link";
 import github from "../img/github-icon.svg";
 import linkedin from "../img/linkedin-icon.svg";
 import twitter from "../img/twitter-icon.svg";
-import logo from "../img/logo.svg";
+import logo from "../img/samurai-helmet.png";
 
 class Navbar extends Component {
   state = {
@@ -17,10 +17,9 @@ class Navbar extends Component {
       <nav className="navbar is-light">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item">
-            SPMCB
-            {/* <figure className="image">
-              <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-            </figure> */}
+            <figure className="image">
+              <img src={logo} alt="Bushido Codes" style={{ width: "30px" }} />
+            </figure>
           </Link>
           <Link className="navbar-item" to="/about">
             About
@@ -48,7 +47,7 @@ class Navbar extends Component {
           <div className="navbar-end">
             <a
               className="navbar-item"
-              href="https://www.linkedin.com/in/spmcbride1201/"
+              href="https://www.linkedin.com/in/bushidocodes/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -58,7 +57,7 @@ class Navbar extends Component {
             </a>
             <a
               className="navbar-item"
-              href="https://twitter.com/spmcbride1201"
+              href="https://twitter.com/bushidocodes"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -68,7 +67,7 @@ class Navbar extends Component {
             </a>
             <a
               className="navbar-item"
-              href="https://github.com/spmcbride1201"
+              href="https://github.com/bushidocodes"
               target="_blank"
               rel="noopener noreferrer"
             >

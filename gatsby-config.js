@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Sean McBride | Developer"
+    title: "Sean | Software Samurai"
   },
   plugins: [
     "gatsby-plugin-styled-components",
