@@ -7,8 +7,6 @@ permalink: rules-to-be-outsource-proof/
 coverimage: /img/posts/outsourcing.jpg
 ---
 
-![Keyboard Button with the word outsourcing](/img/posts/outsourcing.jpg)
-
 Yesterday, some of my colleagues in [Operation Code](https://operationcode.org/)'s Slack channel were expressing some concerns about outsourcing and the impact that this might have on their careers. Given all of the election season rhetoric about American jobs, this is pretty understandable. Realistically, this is also an irreversable trend brought about by high-speed Internet interconnecting the globe.
 
 So rather than hoping that the cosmopolitan elite will change the rules of the game to favor rich world tech workers (HA!), it's worth drawing up a career plan that keeps the reality of outsourcing in mind. My experiences with outsourcing has been largely shaped by my former employment at IBM, an old-line tech company that has been arguable the most brutal and ruthless offshorer (both for it's employees and by having an extensive sales force and consulting division that sells outsourcing services to other companies.)
