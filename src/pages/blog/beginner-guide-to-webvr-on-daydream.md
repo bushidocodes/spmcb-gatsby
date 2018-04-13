@@ -102,9 +102,9 @@ Finally, test that you can render WebVR content by checking out this site using 
 4.  ReactVR seems to offer only serve dev builds of WebVR over http, which cannot be viewed by daydream.
 5.  If you are trying to render a WebVR application off a development machine on your LAN and you have issues, consider turning off your local firewall on your development machine to check if that is interfering.
 
-## Future Steps (under construction)
+## Future Steps
 
-### Improve Write-Run-Cycle by better integrating the Daydream Headset into your development workflow
+1.  _Improve Write-Run-Cycle by better integrating the Daydream Headset into your development workflow_
 
 Because off-the-shelp boilerplate from A-Frame and ReactVR seems to only offer live-reloads over http, this workflow is incompatible with the Chrome security restriction that the Daydream can only render WebVR over https.
 
@@ -116,13 +116,13 @@ Possible solutions for this problem include:
 
 An ideal solution would allow remote debugging of the WebVR application running on the Pixel in Daydream mode to be able to capture performance data to ensure 60fps. For this to be accurate, screen mirroring will likely have to be disabled.
 
-### Register your hostname with Google Origin as an Endpoint with WebVR enabled
+2.  _Register your hostname with Google Origin as an Endpoint with WebVR enabled_
 
 When your app is ready for deployment, you will have to register your server with Google as a valid endpoint for WebVR.
 
 ## Further Reading
 
-* [https://techcrunch.com/2016/10/06/oculus-webvr/](Oculus WebVR)
-* [https://developer.oculus.com/blog/introducing-the-react-vr-pre-release/](ReactVR Pre-release)
-* [https://developer.android.com/studio/run/device.html#developer-device-options](Enabling On-device Developer Options)
-* [https://developers.google.com/web/tools/chrome-devtools/remote-debugging/](Get Started with Remote Debugging Android Devices)
+* [Oculus WebVR](https://techcrunch.com/2016/10/06/oculus-webvr/)
+* [ReactVR Pre-release](https://developer.oculus.com/blog/introducing-the-react-vr-pre-release/)
+* [Enabling On-device Developer Options](https://developer.android.com/studio/run/device.html#developer-device-options)
+* [Get Started with Remote Debugging Android Devices](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/)
