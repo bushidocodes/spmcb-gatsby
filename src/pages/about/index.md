@@ -5,7 +5,7 @@ title: About
 
 ## 👋 Hi! I'm Sean. 👋
 
-I'm a West Point graduate and former Army Officer turned Software Engineer that draws inspiration from military history and warrior cultures. You can consider an aspiring Software Samurai.
+I'm a West Point graduate and former Army Officer turned Software Engineer that draws inspiration from military history and warrior cultures. You can consider me an aspiring Software Samurai.
 
 Known as honorable men of action, the Samurai were guided by the unwritten chivalric code of Bushido, which espoused a vision of proper behavior centered on eight virtues:
 
